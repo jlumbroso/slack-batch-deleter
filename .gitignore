@@ -1,3 +1,12 @@
+# export files
+*.csv
+
+# macOS metadata
+.DS_Store
+
+# environment variables
+.env*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
